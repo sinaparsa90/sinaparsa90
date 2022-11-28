@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sina Parsapour
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.js HTML js Express.js
-- 💞️ I’m looking to collaborate on every project regarding web
+- 👋 Hi, I’m Sina Parsapour.
+- 👀 I’m a FrontEnd Web Developer.
+- 💞️ I’m looking to collaborate on every project regarding web.
 - 📫 You can reach me on whatsapp : +989122272768
 
 <!---
